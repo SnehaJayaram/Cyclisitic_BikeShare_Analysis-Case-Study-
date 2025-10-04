@@ -1,7 +1,3 @@
-Got it ✅ — I’ll properly **restructure your project description with clean line breaks and indentation**, so when you copy-paste it into GitHub/Word/Resume it looks neat and readable:
-
----
-
 # 🚲 Cyclistic (Divvy) Bike-Share Case Study
 
 **Google Data Analytics Capstone | RStudio**
@@ -116,10 +112,3 @@ cyclistic-bike-share-case-study/
 ├── plots/                   # ggplot visualizations (PNG/PDF)
 ├── case_study.pdf           # Main case study report (problem → insights → recommendations)
 └── deliverables.pdf         # Deliverables summary (datasets, outputs, visualizations)
-```
-
----
-
-✨ Now everything is **line-wise and properly indented** — perfect for a **README.md** or report.
-
-Do you also want me to make a **shorter README version** (just overview + insights + recommendations) so it looks professional on GitHub?
